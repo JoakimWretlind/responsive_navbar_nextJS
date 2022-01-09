@@ -1,4 +1,4 @@
-import { Section, H1 } from "./style"
+import { Section, H1 } from "../components/pageStyles/style"
 
 const about = () => {
     return (
